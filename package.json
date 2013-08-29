@@ -1,0 +1,21 @@
+{
+  "name": "thalassa-registrations",
+  "version": "0.0.0",
+  "description": "A common registrations object used by Thalassa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PearsonEducation/thalassa-registrations.git"
+  },
+  "keywords": [
+    "thalassa"
+  ],
+  "author": "Mike Brevoort <mike.brevoort@pearson.com>",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/PearsonEducation/thalassa-registrations/issues"
+  }
+}
