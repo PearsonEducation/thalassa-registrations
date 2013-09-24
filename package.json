@@ -1,6 +1,6 @@
 {
   "name": "thalassa-registrations",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A common registrations object used by Thalassa",
   "main": "index.js",
   "scripts": {
